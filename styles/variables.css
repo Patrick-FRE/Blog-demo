@@ -1,0 +1,11 @@
+:root {
+  --theme-color-primary: #e6dede;
+  --theme-color-secondary: #b8afaf;
+
+  --main-bg-color: #fafafa;
+  --main-font-family: 'Roboto', sans-serif;
+  --main-min-height: 400rem;
+
+  --main-header-height: 6.5rem;
+  --main-footer-height: 12rem;
+}
